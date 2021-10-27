@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shafaqe/react_assignment/static/css/main.2934c3a0.chunk.css",
+    "main.js": "/shafaqe/react_assignment/static/js/main.1312a8af.chunk.js",
+    "main.js.map": "/shafaqe/react_assignment/static/js/main.1312a8af.chunk.js.map",
+    "runtime-main.js": "/shafaqe/react_assignment/static/js/runtime-main.97a1f072.js",
+    "runtime-main.js.map": "/shafaqe/react_assignment/static/js/runtime-main.97a1f072.js.map",
+    "static/js/2.262773d6.chunk.js": "/shafaqe/react_assignment/static/js/2.262773d6.chunk.js",
+    "static/js/2.262773d6.chunk.js.map": "/shafaqe/react_assignment/static/js/2.262773d6.chunk.js.map",
+    "static/js/3.d2725ae0.chunk.js": "/shafaqe/react_assignment/static/js/3.d2725ae0.chunk.js",
+    "static/js/3.d2725ae0.chunk.js.map": "/shafaqe/react_assignment/static/js/3.d2725ae0.chunk.js.map",
+    "index.html": "/shafaqe/react_assignment/index.html",
+    "static/css/main.2934c3a0.chunk.css.map": "/shafaqe/react_assignment/static/css/main.2934c3a0.chunk.css.map",
+    "static/js/2.262773d6.chunk.js.LICENSE.txt": "/shafaqe/react_assignment/static/js/2.262773d6.chunk.js.LICENSE.txt",
+    "static/media/img.526ea072.jpg": "/shafaqe/react_assignment/static/media/img.526ea072.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97a1f072.js",
+    "static/js/2.262773d6.chunk.js",
+    "static/css/main.2934c3a0.chunk.css",
+    "static/js/main.1312a8af.chunk.js"
+  ]
+}
